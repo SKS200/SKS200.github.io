@@ -8,13 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am Shashikanta Sahoo, I have completed my Bachelor’s in the Department of Electrical Engineering with a merit scholarship at the Biju Patnaik University of Technology, Odisha India, one of the Premier engineering institutes in India.
+I am a Research Assistant at the Department of Computer Science and Engineering, Indian Institute of Technology Madras advised by <a target="_blank" href="http://ee.iitm.ac.in/~raju/">Dr. A.N. Rajagopalan</a> at <a target="_blank" href="https://www.ee.iitm.ac.in/ipcvlab/">Image Processing and Computer Vision (IPCV) Lab</a>. Previously, I received my B.Tech in Electrical Engineering at Bijupatttnaik University of Technology, Odisha. I also briefly interned at the SILO AI Finland, where I was advised by <a target="_blank" href="https://www.shantipriya.me/">Dr. Shantipriya parida</a>. 
 
-I have a CGPA (Cumulative Grade Point Average) of 8.71/10, amongst the top 03 students out of 70 students in my Department. I am Currently Working as a Research Associate at the Image Processing and Computer vision lab at IIT Madras Under Prof. A.N. Rajagopalan. I am Working on a Problem Statement related to Multi-instance and Multi-label (MIML) in Videos for Sports Analytics.
-
-My interests include Computer vision(Activity Recognition,Video analysis), Deep learning, NLP(Text Summarization,Dialect Detection) 
-
-
+**Research Interest**
+My interest lies at the intersection of 3D computer vision and Robotics. The noteworthy progress made in vision and language technology within the domain of AI research has led to groundbreaking commercial products that have profoundly influenced society. Nonetheless, what genuinely fascinates me is the potential of these models to undertake mission-critical tasks, such as autonomous robotic surgery. My ultimate goal is to actively contribute to the development of intelligent systems that possess the ability to make intricate decisions and foster positive transformations in our world.
 
 
 
