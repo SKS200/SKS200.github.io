@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant at the Department of Electrical Engineering, Indian Institute of Technology Madras advised by <a target="_blank" href="http://ee.iitm.ac.in/~raju/">Dr. A.N. Rajagopalan</a> at <a target="_blank" href="https://www.ee.iitm.ac.in/ipcvlab/">Image Processing and Computer Vision (IPCV) Lab</a>. Previously, I received my B.Tech in Electrical Engineering at Biju Patnaik University of Technology , Odisha. I also briefly interned at the SILO AI Finland, where I was advised by <a target="_blank" href="https://www.shantipriya.me/">Dr. Shantipriya parida</a>. 
+I am a Research Assistant at the Department of Electrical Engineering, Indian Institute of Technology Madras advised by <a target="_blank" href="http://ee.iitm.ac.in/~raju/">Dr. A.N. Rajagopalan</a> at <a target="_blank" href="https://www.ee.iitm.ac.in/ipcvlab/">Image Processing and Computer Vision (IPCV) Lab</a>. Previously, I received my B.Tech in Electrical Engineering at Biju Patnaik University of Technology , Odisha. I also briefly interned at the Silo AI Finland, where I was advised by <a target="_blank" href="https://www.shantipriya.me/">Dr. Shantipriya parida</a>. 
 
 **Research Interest**
 My interest lies at the intersection of 3D computer vision and Robotics. The noteworthy progress made in vision and language technology within the domain of AI research has led to groundbreaking commercial products that have profoundly influenced society. Nonetheless, what genuinely fascinates me is the potential of these models to undertake mission-critical tasks. My ultimate goal is to actively contribute to the development of intelligent systems that possess the ability to make intricate decisions and foster positive transformations in our world.
