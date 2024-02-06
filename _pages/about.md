@@ -7,18 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<h3>About Me</h3>
 
 I am a Research Assistant at the Department of Electrical Engineering, Indian Institute of Technology Madras advised by <a target="_blank" href="http://ee.iitm.ac.in/~raju/">Dr. A.N. Rajagopalan</a> at <a target="_blank" href="https://www.ee.iitm.ac.in/ipcvlab/">Image Processing and Computer Vision (IPCV) Lab</a>. Previously, I received my B.Tech in Electrical Engineering at Biju Patnaik University of Technology , Odisha. I also briefly interned at the Silo AI Finland, where I was advised by <a target="_blank" href="https://www.shantipriya.me/">Dr. Shantipriya parida</a>. 
 
-**Research Interest**
+<h3>Research Interest</h3>
+
 My interest lies at the intersection of 3D computer vision and Robotics. The noteworthy progress made in vision and language technology within the domain of AI research has led to groundbreaking commercial products that have profoundly influenced society. Nonetheless, what genuinely fascinates me is the potential of these models to undertake mission-critical tasks. My ultimate goal is to actively contribute to the development of intelligent systems that possess the ability to make intricate decisions and foster positive transformations in our world.
+
+<h3>Connect</h3>
+<a href="https://twitter.com/Shashik36666718" class="twitter-follow-button" data-show-count="false">Follow @chaidosa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
 
 
 <div class="recent_updates">Recent Updates</div>
 
 <ul class="updates">
 <!-- 	<li><span class="updates-month">JUL '23</span> <span class="updates-content">Accepted as AI Fellow at PI SCHOOL Rome, Italy </span></li>  -->
-  <li><span class="updates-month">JULY '23</span> <span class="updates-content">Joined IIT Madras as a Research Assitant, focusing on Sports Analytics.</span></li>
+    <li><span class="updates-month">JULY '23</span> <span class="updates-content">Joined IIT Madras as a Research Assitant, focusing on Sports Analytics.</span></li>
 </ul>
 
 
