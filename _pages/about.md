@@ -19,7 +19,7 @@ My interest lies at the intersection of 3D computer vision and Robotics. The not
 <a href="https://twitter.com/Shashik36666718" class="twitter-follow-button" data-show-count="false">Follow @chaidosa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
 
 
-<div class="recent_updates">Recent Updates</div>
+<div class="recent_updates">**Recent Updates**</div>
 
 <ul class="updates">
 <!-- 	<li><span class="updates-month">JUL '23</span> <span class="updates-content">Accepted as AI Fellow at PI SCHOOL Rome, Italy </span></li>  -->
