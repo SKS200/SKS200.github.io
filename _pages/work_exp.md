@@ -20,8 +20,6 @@ author_profile: true
 	</div>
 </div>
 
-
-
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
