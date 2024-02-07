@@ -98,7 +98,7 @@ author_profile: true
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="file:///C:/Users/Shashikanta%20Sahoo/Downloads/download.gif">
+			<img src="/images/tickmark_gif.gif">
 	</div>
 	<div class="right">
 		<div class="title" style="font-size: 14px;">Tickmark-Recognition</div>
