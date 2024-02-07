@@ -7,6 +7,22 @@ author_profile: true
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
+			<img src="/images/IITM_gif.gif">
+		</span>
+	</div>
+	<div class="right">
+		<div class="title" style="font-size: 14px;"><a href="https://research.iitmandi.ac.in/cair/" style="text-decoration: none; color: inherit;" target="_blank">CAIR Lab, IIT Mandi, India </a>| Computer vision Intern</div>
+		<div class="sub-title" style="font-size: 14px;">Mar 23 - Jun 23</div>
+		<span class="research-text" style="text-align: justify; display: inline-block; font-size: 14px; line-height: 1.5;">Tech: Python,Pytorch, Data Analysis, Deep learning </span><br>		
+		<span class="research-text"><ul>
+		<li style="text-align: justify; font-size: 14px;"> propose a <b>deep learning based(LSTM)</b> methodology to treat the collected vibration data from a device model,to detect Motor and Pump Occurred faults. </li> 
+		<li style="text-align: justify; font-size: 14px;"> Getting the <b>Mean Square Error Rate as 3.01537.</b></li> 
+	</div>
+</div>
+
+<div class="research-block">
+	<div class="left">
+		<span class="research-img">
 			<img src="/images/playpowerlabs_gif.gif">
 		</span>
 	</div>
@@ -20,18 +36,3 @@ author_profile: true
 	</div>
 </div>
 
-<div class="research-block">
-	<div class="left">
-		<span class="research-img">
-			<img src="/images/IITM_gif.gif">
-		</span>
-	</div>
-	<div class="right">
-		<div class="title" style="font-size: 14px;"><a href="https://research.iitmandi.ac.in/cair/" style="text-decoration: none; color: inherit;" target="_blank">CAIR Lab, IIT Mandi, India </a>| Computer vision Intern</div>
-		<div class="sub-title" style="font-size: 14px;">Mar 23 - Jun 23</div>
-		<span class="research-text" style="text-align: justify; display: inline-block; font-size: 14px; line-height: 1.5;">Tech: Python,Pytorch, Data Analysis, Deep learning (LSTM,RNN), </span><br>		
-		<span class="research-text"><ul>
-		<li style="text-align: justify; font-size: 14px;"> propose a <b>deep learning based(LSTM)</b> methodology to treat the collected vibration data from a device model,    to detect Motor and Pump  Occurred faults. </li> 
-		<li style="text-align: justify; font-size: 14px;"> Getting the <b>Mean Square Error Rate as 3.01537.</b></li> 
-	</div>
-</div>
