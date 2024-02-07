@@ -95,7 +95,7 @@ author_profile: true
 </div> -->
 
 
-<div class="research-block">
+<!-- <div class="research-block">
 	<div class="left">
 		<span class="research-img">
 			<img src="/images/tickmark_gif.gif">
@@ -103,7 +103,7 @@ author_profile: true
 	<div class="right">
 		<div class="title" style="font-size: 14px;">Tickmark-Recognition</div>
 		<div class="sub-title" style="font-size: 14px;">Jan 22- Aug 22 | <a target="_blank" class="tab_paper" href="https://github.com/SKS200/Tickmark-Recognition-using-Convolutional-Neural-Network/blob/main/Tickmark_Recognition.ipynb">Project Report</a> ?
-		<span class="research-text" style="text-align: justify; display: inline-block; font-size: 14px; line-height: 1.5;">Tech: Python, Keras, Computer vision (CNN), Digit Recognition</span><br><br>		
+		<span class="research-text" style="text-align: justify; display: inline-block; font-size: 14px; line-height: 1.5;">Tech: Python, Keras,Deep learning, Computer vision, Digit Recognition</span><br><br>		
 		<span class="research-text" style="text-align: justify; display: inline-block; line-height: 1.5; font-size: 14px;"> We are creating a <b>tickmark recognition model</b> that can check MCQ options ticked by students in tests. We are creating image classification models to do the task. Our system can identify checkmarks on the answer sheets, and provide us with crops of the tickmark and its surrounding region. We need to detect </b>(1) whether students ticked the box or </b>(2) whether it was blank or </b>(3) Was there any scratch marks or not</b>. Our current model only predicts whether a given checkbox has a tick or not (binary classifier).</span>
     </div>
-</div>
+</div> -->

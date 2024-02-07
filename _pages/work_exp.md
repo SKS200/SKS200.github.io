@@ -89,7 +89,7 @@ author_profile: true
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
-			<img src="/images/playpower-labs.gif.gif">
+			<img src="/images/playpower-labs.gif">
 		</span>
 	</div>
 	<div class="right">
@@ -97,8 +97,8 @@ author_profile: true
 		<div class="sub-title" style="font-size: 14px;">Jun 22 - Aug 22</div>
 		<span class="research-text" style="text-align: justify; display: inline-block; font-size: 14px; line-height: 1.5;">Tech: Python, Keras,Deep learning, Computer vision, Digit Recognition</span><br><br>				
 		<span class="research-text"><ul>
-		<li style="text-align: justify; font-size: 14px;">Developed a <b>tickmark recognition model</b> that can check MCQ options ticked by students in tests. We are creating image classification models to do the task. Our system can identify checkmarks on the answer sheets, and provide us with crops of the tickmark and its surrounding region. We need to detect </b>(1) whether students ticked the box or </b>(2) whether it was blank or </b>(3) Was there any scratch marks or not</b>. Our current model only predicts whether a given checkbox has a tick or not (binary classifier).</li></ul></span>
+		<li style="text-align: justify; font-size: 14px;">Developed a <b>tickmark recognition model</b> that can check MCQ options ticked by students in tests. We are creating image classification models to do the task. Our system can identify checkmarks on the answer sheets, and provide us with crops of the tickmark and its surrounding region. We need to detect </b>whether students ticked the box or </b>whether it was blank or </b>Was there any scratch marks or not</b>. Our current model only predicts whether a given checkbox has a tick or not (binary classifier).</li></ul></span>
         <span class="research-text"><ul>
-        <li style="text-align: justify; font-size: 14px;"> Achieved <b>94%</b> and <b>96%</b> accuracy in 3 digit and 2 digit recognition tasks, respectively.</li></ul></span>
+        <li style="text-align: justify; font-size: 14px;"> Achieved <b>94%</b> and <b>96%</b> accuracy in recognition tasks, respectively.</li></ul></span>
 	</div>
 </div>
