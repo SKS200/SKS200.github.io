@@ -94,9 +94,9 @@ author_profile: true
 	</div>
 	<div class="right">
 		<div class="title" style="font-size: 14px;"> <a href="https://www.playpowerlabs.com/" style="text-decoration: none; color: inherit;" target="_blank"> Playpower Foundation, Gujurat, India </a>| Computer vision Intern </div>
-        <div class="sub-title" style="font-size: 14px;">Jan 22- Aug 22 | <a target="_blank" class="tab_paper" href="https://github.com/SKS200/Tickmark-Recognition-using-Convolutional-Neural-Network/blob/main/Tickmark_Recognition.ipynb">Code</a>
+        <div class="sub-title" style="font-size: 14px;">Jan 22- Aug 22 | <a target="_blank" class="tab_paper" href="https://github.com/SKS200/Tickmark-Recognition-using-Convolutional-Neural-Network/blob/main/Tickmark_Recognition.ipynb">Code</a></div>
 		<!-- <div class="sub-title" style="font-size: 14px;">Jun 22 - Aug 22</div> -->
-		<span class="research-text" style="text-align: justify; display: inline-block; font-size: 14px; line-height: 1.5;">Tech: Python, Keras,Deep learning, Computer vision, Digit Recognition</span><br><br>				
+		<span class="research-text" style="text-align: justify; display: inline-block; font-size: 14px; line-height: 1.5;">Tech: Python, Keras,Deep learning, Computer vision, Tickmark Recognition</span><br><br>				
 		<span class="research-text"><ul>
 		<li style="text-align: justify; font-size: 14px;">Developed a <b>tickmark recognition model</b> that can check MCQ options ticked by students in tests. We are creating image classification models to do the task. Our system can identify checkmarks on the answer sheets, and provide us with crops of the tickmark and its surrounding region. We need to detect <b>whether students ticked the box</b> or <b>whether it was blank</b>  or <b>Was there any scratch marks or not</b>. Our current model only predicts whether a given checkbox has a tick or not (binary classifier).</li></ul></span>
         <span class="research-text"><ul>
