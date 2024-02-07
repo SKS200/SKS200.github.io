@@ -15,10 +15,12 @@ author_profile: true
 		<div class="sub-title" style="font-size: 14px;">Mar 23 - Jun 23</div>
 		<span class="research-text" style="text-align: justify; display: inline-block; font-size: 14px; line-height: 1.5;">Tech: Python,Pytorch, Data Analysis, Deep learning </span><br>		
 		<span class="research-text"><ul>
-		<li style="text-align: justify; font-size: 14px;"> propose a <b>deep learning based(LSTM)</b> methodology to treat the collected vibration data from a device model,to detect Motor and Pump Occurred faults. </li> 
-		<li style="text-align: justify; font-size: 14px;"> Getting the <b>Mean Square Error Rate as 3.01537.</b></li> 
+		<li style="text-align: justify; font-size: 14px;"> Proposed a <b>deep learning (LSTM)</b> based method to to detect the faults Occurred in Motor and Pump by using the collected vibration data from a sensor motor. </li> 
+		<li style="text-align: justify; font-size: 14px;"> Minimized the <b>Mean Square Error Rate as 3.01537.</b></li></ul></span> 
 	</div>
 </div>
+
+
 
 <div class="research-block">
 	<div class="left">
