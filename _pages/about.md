@@ -10,9 +10,6 @@ redirect_from:
 ---
 <h3>About Me</h3>
 
-Here's a rephrased version of the text:
-
----
 
 I am currently a Research Assistant at the Indian School of Business, working under the guidance of <a target="_blank" href="https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/sumeet-kumar.html">Dr. Sumeet Kumar</a>. Prior to this, I served as a Research Assistant in the Department of Electrical Engineering at the Indian Institute of Technology Madras, <a target="_blank" href="http://ee.iitm.ac.in/~raju/">Dr. A.N. Rajagopalan</a> at <a target="_blank" href="https://www.ee.iitm.ac.in/ipcvlab/">Image Processing and Computer Vision (IPCV) Lab</a>. where I was advised b. I hold a B.Tech in Electrical Engineering from Biju Patnaik University of Technology, Odisha. Additionally, I had the opportunity to intern at Silo AI in Finland, where I was mentored by <a target="_blank" href="https://www.shantipriya.me/">Dr. Shantipriya parida</a>..
 
@@ -20,9 +17,7 @@ I am currently a Research Assistant at the Indian School of Business, working un
 
 <h3>Research Interest</h3>
 
-Text/Multimodal Generation Task: reliable and trustworthy large-scale language/vision-language models (LLMs, LVLMs, etc.)
-Multi-source Structured Information Extraction and Understanding: enable them to be enhanced and interact with the real world based on the diverse information from the real world
-General Artificial Intelligence: diverse inputs and outputs (images, text, 3D points, videos, etc.)
+For my research, I focus on developing reliable and trustworthy large-scale language and vision-language models (LLMs, LVLMs, etc.). I'm also interested in multi-source structured information extraction and understanding, aiming to enhance model interaction with the real world based on diverse information sources. My work in general artificial intelligence explores the integration of diverse inputs and outputs, including images, text, 3D points, and videos.
 
 
 I’m open to discussion regarding potential research opportunities and collaborations.
@@ -34,7 +29,7 @@ I’m open to discussion regarding potential research opportunities and collabor
 <h3>Recent Updates</h3>
 
 <ul class="updates">
-	<li><span class="updates-month">Aug '24</span> <span class="updates-content">Joined ISB Hyderabad as a Research Assistant,focusing on Utilizing Large Language Models (LLMs) for Video Classification.  </span></li>  -->
+	<li><span class="updates-month">Aug '24</span> <span class="updates-content">Joined ISB Hyderabad as a Research Assistant,focusing on Utilizing Large Language Models (LLMs) for Video Classification.  </span></li> 
   <li><span class="updates-month">JUL '23</span> <span class="updates-content">Joined IIT Madras as a Research Assistant, focusing on Sports Video Analytics.</span></li>
 </ul>
 
