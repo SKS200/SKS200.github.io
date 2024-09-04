@@ -10,11 +10,22 @@ redirect_from:
 ---
 <h3>About Me</h3>
 
-I am a Research Assistant at the Department of Electrical Engineering, Indian Institute of Technology Madras advised by <a target="_blank" href="http://ee.iitm.ac.in/~raju/">Dr. A.N. Rajagopalan</a> at <a target="_blank" href="https://www.ee.iitm.ac.in/ipcvlab/">Image Processing and Computer Vision (IPCV) Lab</a>. Previously, I received my B.Tech in Electrical Engineering at Biju Patnaik University of Technology , Odisha. I also briefly interned at the Silo AI Finland, where I was advised by <a target="_blank" href="https://www.shantipriya.me/">Dr. Shantipriya parida</a>. 
+Here's a rephrased version of the text:
+
+---
+
+I am currently a Research Assistant at the Indian School of Business, working under the guidance of <a target="_blank" href="https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/sumeet-kumar.html">Dr. Sumeet Kumar</a>. Prior to this, I served as a Research Assistant in the Department of Electrical Engineering at the Indian Institute of Technology Madras, <a target="_blank" href="http://ee.iitm.ac.in/~raju/">Dr. A.N. Rajagopalan</a> at <a target="_blank" href="https://www.ee.iitm.ac.in/ipcvlab/">Image Processing and Computer Vision (IPCV) Lab</a>. where I was advised b. I hold a B.Tech in Electrical Engineering from Biju Patnaik University of Technology, Odisha. Additionally, I had the opportunity to intern at Silo AI in Finland, where I was mentored by <a target="_blank" href="https://www.shantipriya.me/">Dr. Shantipriya parida</a>..
+
+---
 
 <h3>Research Interest</h3>
 
-My interest lies at the intersection of 3D computer vision and Robotics. The noteworthy progress made in vision and language technology within the domain of AI research has led to groundbreaking commercial products that have profoundly influenced society. Nonetheless, what genuinely fascinates me is the potential of these models to undertake mission-critical tasks. My ultimate goal is to actively contribute to the development of intelligent systems that possess the ability to make intricate decisions and foster positive transformations in our world.
+Text/Multimodal Generation Task: reliable and trustworthy large-scale language/vision-language models (LLMs, LVLMs, etc.)
+Multi-source Structured Information Extraction and Understanding: enable them to be enhanced and interact with the real world based on the diverse information from the real world
+General Artificial Intelligence: diverse inputs and outputs (images, text, 3D points, videos, etc.)
+
+
+I’m open to discussion regarding potential research opportunities and collaborations.
 
 <h3>Connect</h3>
 <a href="https://twitter.com/Shashik36666718" class="twitter-follow-button" data-show-count="false">Follow @chaidosa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
@@ -23,8 +34,8 @@ My interest lies at the intersection of 3D computer vision and Robotics. The not
 <h3>Recent Updates</h3>
 
 <ul class="updates">
-<!-- 	<li><span class="updates-month">JUL '23</span> <span class="updates-content">Accepted as AI Fellow at PI SCHOOL Rome, Italy </span></li>  -->
-  <li><span class="updates-month">JUL '23</span> <span class="updates-content">Joined IIT Madras as a Research Assitant, focusing on Sports Analytics.</span></li>
+	<li><span class="updates-month">Aug '24</span> <span class="updates-content">Joined ISB Hyderabad as a Research Assistant,focusing on Utilizing Large Language Models (LLMs) for Video Classification.  </span></li>  -->
+  <li><span class="updates-month">JUL '23</span> <span class="updates-content">Joined IIT Madras as a Research Assistant, focusing on Sports Video Analytics.</span></li>
 </ul>
 
 
