@@ -11,9 +11,8 @@ redirect_from:
 <h3>About Me</h3>
 
 
-I am currently a Research Assistant at the Indian School of Business, Hyderabad, working under the guidance of <a target="_blank" href="https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/sumeet-kumar.html">Dr. Sumeet Kumar</a>. Prior to this, I served as a Research Assistant in the Department of Electrical Engineering at the Indian Institute of Technology Madras, where I was advised by <a target="_blank"  href="http://ee.iitm.ac.in/~raju/">Dr. A.N. Rajagopalan</a> at <a target="_blank" href="https://www.ee.iitm.ac.in/ipcvlab/">Image Processing and Computer Vision (IPCV) Lab</a>.  I hold a B.Tech in Electrical Engineering from Biju Patnaik University of Technology, Odisha. Additionally, I had the opportunity to intern at Silo AI in Finland, where I was mentored by <a target="_blank" href="https://www.shantipriya.me/">Dr. Shantipriya parida</a>.
+I am currently a Research Assistant at the Indian School of Business, Hyderabad, working under the guidance of <a target="_blank" href="https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/sumeet-kumar.html">Dr. Sumeet Kumar</a>. Prior to this, I served as a Research Assistant in the Department of Electrical Engineering at the Indian Institute of Technology Madras, where I was advised by <a target="_blank"  href="http://ee.iitm.ac.in/~raju/">Dr. A.N. Rajagopalan</a> at <a target="_blank" href="https://www.ee.iitm.ac.in/ipcvlab/">Image Processing and Computer Vision (IPCV) Lab</a>.  I hold a B.Tech in Electrical Engineering from Biju Patnaik University of Technology, Odisha. Additionally, I had the opportunity to intern at Silo AI in Finland,where I was mentored by <a target="_blank" href="https://www.shantipriya.me/">Dr. Shantipriya parida</a>, During this internship, I focused on natural language processing (NLP) for low-resource languages, particularly Indian languages.
 
----
 
 <h3>Research Interest</h3>
 
