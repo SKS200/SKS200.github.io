@@ -28,7 +28,7 @@ I’m open to discussion regarding potential research opportunities and collabor
 <h3>Recent Updates</h3>
 
 <ul class="updates">
-	<li><span class="updates-month">Aug '24</span> <span class="updates-content">Joined ISB Hyderabad as a Research Assistant,focusing on Utilizing Large Language Models (LLMs) for Rating the Language off Children's Videos on YouTube.  </span></li> 
+	<li><span class="updates-month">Aug '24</span> <span class="updates-content">Joined ISB Hyderabad as a Research Assistant,focusing on Utilizing Large Language Models (LLMs) for Rating the Language of Children's Videos on YouTube.  </span></li> 
   <li><span class="updates-month">JUL '23</span> <span class="updates-content">Joined IIT Madras as a Research Assistant, focusing on Sports Video Analytics.</span></li>
 </ul>
 
