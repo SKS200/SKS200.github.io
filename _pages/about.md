@@ -16,7 +16,7 @@ I am currently a Research Assistant at the Indian School of Business, Hyderabad,
 
 <h3>Research Interest</h3>
 
-For my research, I focus on developing reliable and trustworthy large-scale language and vision-language models (LLMs, LVLMs, etc.). I'm also interested in multi-source structured information extraction and understanding, aiming to enhance model interaction with the real world based on diverse information sources. My work in general artificial intelligence explores the integration of diverse inputs and outputs, including images, text, 3D points, and videos.
+For my research, I focus on developing reliable and trustworthy large-scale language and vision-language models (LLMs, VLMs, etc.). I'm also interested in multi-source structured information extraction and understanding, aiming to enhance model interaction with the real world based on diverse information sources. My work in general artificial intelligence explores the integration of diverse inputs and outputs, including images, text, 3D points, and videos.
 
 
 I’m open to discussion regarding potential research opportunities and collaborations.
@@ -28,7 +28,7 @@ I’m open to discussion regarding potential research opportunities and collabor
 <h3>Recent Updates</h3>
 
 <ul class="updates">
-	<li><span class="updates-month">Aug '24</span> <span class="updates-content">Joined ISB Hyderabad as a Research Assistant,focusing on Utilizing Large Language Models (LLMs) for Video Classification.  </span></li> 
+	<li><span class="updates-month">Aug '24</span> <span class="updates-content">Joined ISB Hyderabad as a Research Assistant,focusing on Utilizing Large Language Models (LLMs) for Rating the Language off Children's Videos on YouTube.  </span></li> 
   <li><span class="updates-month">JUL '23</span> <span class="updates-content">Joined IIT Madras as a Research Assistant, focusing on Sports Video Analytics.</span></li>
 </ul>
 
