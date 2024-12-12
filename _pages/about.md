@@ -28,8 +28,8 @@ I’m open to discussion regarding potential research opportunities and collabor
 <h3>Recent Updates</h3>
 
 <ul class="updates">
-  <li><span class="updates-month">Dec '24</span> <span class="updates-content">Our OVQA paper accepted to IndoNLP workshop at COLING 2025.  </span></li> 
-  <li><span class="updates-month">Nov '24</span> <span class="updates-content">Our Shared task Paper got Accepted to Ninth Conference on Machine Translation at EMNLP 2024.  </span></li> 
+  <li><span class="updates-month">Dec '24</span> <span class="updates-content">Our OVQA Paper got accepted to IndoNLP workshop at COLING 2025.  </span></li> 
+  <li><span class="updates-month">Nov '24</span> <span class="updates-content">Our Shared task Paper got accepted to Ninth Conference on Machine Translation at EMNLP 2024.  </span></li> 
 	<li><span class="updates-month">Aug '24</span> <span class="updates-content">Joined ISB Hyderabad as a Research Assistant,focusing on Utilizing Large Language Models (LLMs) for Rating the Language of Children's Videos on YouTube.  </span></li> 
   <li><span class="updates-month">JUL '23</span> <span class="updates-content">Joined IIT Madras as a Research Assistant, focusing on Sports Video Analytics.</span></li>
 </ul>
