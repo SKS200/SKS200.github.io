@@ -29,12 +29,20 @@ I’m open to discussion regarding potential research opportunities and collabor
 
 <ul class="updates">
   <li><span class="updates-month">Dec '24</span> <span class="updates-content">Our OVQA Paper got accepted to IndoNLP workshop at COLING 2025.  </span></li> 
+  <li><span class="updates-month">Dec '24</span> <span class="updates-content">Our BoxMAC - A Boxing Dataset for Multi-label Action Classification is now available on arxiv.  </span></li> 
   <li><span class="updates-month">Nov '24</span> <span class="updates-content">Our Shared task Paper got accepted to Ninth Conference on Machine Translation at EMNLP 2024.  </span></li> 
 	<li><span class="updates-month">Aug '24</span> <span class="updates-content">Joined ISB Hyderabad as a Research Assistant,focusing on Utilizing Large Language Models (LLMs) for Rating the Language of Children's Videos on YouTube.  </span></li> 
   <li><span class="updates-month">JUL '23</span> <span class="updates-content">Joined IIT Madras as a Research Assistant, focusing on Sports Video Analytics.</span></li>
+  <li><span class="updates-month">JUN '23</span> <span class="updates-content">Our BengaliGPT: A LLaMA-based Instruction-Following Model for Bengali is now available as a preprint online.</span></li>
 </ul>
 
 
+
+<h3>Academic Services</h3>
+Reviewer For:
+AAAI 2025 Workshop AIGOV
+AAAI 2025 Workshop MARW
+(ICVGIP) 14th Indian Conference on Computer Vision, Graphics and Image Processing, 2024
 
 
 
