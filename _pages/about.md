@@ -40,9 +40,9 @@ I’m open to discussion regarding potential research opportunities and collabor
 
 <h3>Academic Services</h3>
 Reviewer For:
-AAAI 2025 Workshop AIGOV
-AAAI 2025 Workshop MARW
-(ICVGIP) 14th Indian Conference on Computer Vision, Graphics and Image Processing, 2024
+AAAI 2025 Workshop AIGOV,
+AAAI 2025 Workshop MARW,
+(ICVGIP) 14th Indian Conference on Computer Vision, Graphics and Image Processing, 2024.
 
 
 
