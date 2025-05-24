@@ -34,9 +34,6 @@ permalink: /publications/
 author_profile: true
 --- -->
 
-<hr> -->
-
-
 <p>
 Shantipriya Parida, <b>Shashikanta Sahoo</b>, Sambit Sekhar, Kalyanamalini Sahoo, Ketan Kotwal, Sonal Khosla, Satya Ranjan Dash, Aneesh Bose, Guneet Singh Kohli, Smruti Smita Lenka, Ondrej Bojar.<br>
 <b>OVQA: A Dataset for Visual Question Answering and Multimodal Research in Odia Language.</b><br>
@@ -56,6 +53,15 @@ Shantipriya Parida, <b>Shashikanta Sahoo</b>, Sambit Sekhar, Upendra Kumar Jena,
 <hr>
 
 <p>
+<b>Shashikanta Sahoo</b>.<br>
+<b>BoxMAC - A Boxing Dataset for Multi-label Action Classification.</b><br>
+<i>Preprint, Nov 2024. </i><br>
+<a href="https://arxiv.org/abs/2412.18204" target="_blank">Preprint</a>
+</p>
+
+<hr>
+
+<p>
 Shantipriya Parida, Alakananda Tripathy, Satya Ranjan Dash, <b>Shashikanta Sahoo</b>.<br>
 <b>MDOLC: Multi Dialect Odia Song Lyric Corpus.</b><br>
 <i>International Conference on Recent Advancements in Artificial Intelligence and Soft Computing (AAISC), 2023.</i><br>
@@ -70,14 +76,6 @@ Shantipriya Parida, Alakananda Tripathy, Satya Ranjan Dash, <b>Shashikanta Sahoo
 <a href="https://doi.org/10.13140/RG.2.2.16116.26247" target="_blank">Preprint</a>
 </p>
 
-<hr>
-
-<p>
-<b>Shashikanta Sahoo</b>.<br>
-<b>BoxMAC - A Boxing Dataset for Multi-label Action Classification.</b><br>
-<i>Preprint</i><br>
-<a href="https://arxiv.org/abs/2412.18204" target="_blank">Preprint</a>
-</p>
 
 
 
