@@ -23,7 +23,7 @@ Shantipriya Parida, <b>Shashikanta Sahoo</b>, Sambit Sekhar, Upendra Kumar Jena,
 
 <p>
 <b>Shashikanta Sahoo</b>.<br>
-<a href="https://www.researchgate.net/publication/379790070_BoxMAC-A_Boxing_Dataset_for_Multi-label_Action_Classification"><b>BoxMAC - A Boxing Dataset for Multi-label Action Classification.</b></a><br>
+<a href="https://arxiv.org/abs/2412.18204#:~:text=We%20introduce%20BoxMAC%2C%20a%20real-world%20boxing%20dataset%20featuring,per%20frame%20with%20inputs%20from%20a%20boxing%20coach."><b>BoxMAC - A Boxing Dataset for Multi-label Action Classification.</b></a><br>
 <i>Preprint, Nov 24.</i>
 </p> 
 
