@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://SKS200.github.io/files/cv.pdf)
+[Download CV here](file:///C:/Website/academicpages.github.io/files/CV.pdf)
 
 <!-- Education
 ======
